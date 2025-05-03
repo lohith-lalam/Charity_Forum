@@ -1,4 +1,3 @@
-# Charity_Forum
 # Charity Forum
 
 Welcome to **Charity Forum**, a centralized platform designed to streamline charity donations and enhance the impact of giving. This project aims to bridge the gap between donors and those in need, enabling the distribution of surplus essentials such as food, water, clothing, books, and medical supplies. With a focus on transparency and accountability, Charity Forum supports a wide array of causes, making it easier for individuals to contribute to their preferred charities without extensive research or the hassle of navigating multiple donation channels.
